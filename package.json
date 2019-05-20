@@ -6,6 +6,7 @@
   "license": "MIT",
   "private": false,
   "main": "dist/ting-first-ui.js",
+  "repository": "https://github.com/gudanxiaowanzi/ting-first-ui.git",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
