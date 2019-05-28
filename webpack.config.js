@@ -8,8 +8,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'ting-first-ui.js',
-    library: 'ting-first-ui',
+    filename: 'ting-muheda-ui.js',
+    library: 'ting-muheda-ui',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },

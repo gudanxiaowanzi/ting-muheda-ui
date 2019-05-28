@@ -1,12 +1,12 @@
 {
-  "name": "ting-first-ui",
+  "name": "ting-muheda-ui",
   "description": "基于vue组件二次封装",
   "version": "1.0.0",
   "author": "qitingyuetest",
   "license": "MIT",
   "private": false,
-  "main": "dist/ting-first-ui.js",
-  "repository": "https://github.com/gudanxiaowanzi/ting-first-ui.git",
+  "main": "dist/ting-muheda-ui.js",
+  "repository": "https://github.com/gudanxiaowanzi/ting-muheda-ui.git",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
